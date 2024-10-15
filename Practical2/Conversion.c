@@ -40,10 +40,10 @@ int main() {
     }
 
     /* TODO: Complete the expression */
-    /*   numdigits = ceil(...);
+      numdigits = ceil(length);/* finding the length of the binary string*/
        printf("The number of digits is %d\n",numdigits);
-    */
-    printf("inum=%d,  fnum=%f, inum in binary=%s\n", inum, fnum, binnum);
+    
+    printf("inum=%d,  fnum=%f, inum in binary=%s\n", inum, fnum, binnum); /* printing int, float and string using printf*/
 
     return 0;
 }
