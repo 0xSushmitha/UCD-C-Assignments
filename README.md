@@ -12,3 +12,6 @@
 1. Conversion.c - We convert an interger decimal to a binary and do cast conversion from int to float and print the three numbers.
 2. sum.c - We find the sum of the given expression using for loop and find the same from reverse and display the difference.
 
+## Practical 3
+
+1. areaCurve.C - We have used the trapezodial rule to calculate area under the curve.
