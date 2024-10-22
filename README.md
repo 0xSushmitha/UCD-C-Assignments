@@ -15,3 +15,8 @@
 ## Practical 3
 
 1. areaCurve.C - We have used the trapezodial rule to calculate area under the curve.
+
+## Practical4
+
+1. arrayFunctionPrac4.c - Contains the same area under the curve program but have used fuunctions to calculate the given degree to radians and to calculate the area.
+
