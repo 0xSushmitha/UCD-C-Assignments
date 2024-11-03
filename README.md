@@ -20,3 +20,13 @@
 
 1. arrayFunctionPrac4.c - Contains the same area under the curve program but have used fuunctions to calculate the given degree to radians and to calculate the area.
 
+## Practical5
+
+1. fibonacci_prac5.c - Its a program to compute the fibonacci series till the given number number n.
+2. maclaurinSeriesPrac5.c - Program to compute Maclaurin Series for a number
+
+## Practical6
+
+1. main.c - Main program to get input of two matrices and display its product
+2. matmul.c - Contains the function to calculate matric multiplication
+3. Makefile - contains the makefile to compile the two files and get an executable. 
