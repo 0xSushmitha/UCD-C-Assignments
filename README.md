@@ -30,3 +30,8 @@
 1. main.c - Main program to get input of two matrices and display its product
 2. matmul.c - Contains the function to calculate matric multiplication
 3. Makefile - contains the makefile to compile the two files and get an executable. 
+
+## Practical7
+
+1. exponentialP7.c - Contains code to calculate exponential using a function f(x) and find which order provides an accurate value.
+2. pointerManipulationP7.c - Code to practice different kind of usage of pointers
