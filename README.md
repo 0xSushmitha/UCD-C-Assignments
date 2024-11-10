@@ -35,3 +35,7 @@
 
 1. exponentialP7.c - Contains code to calculate exponential using a function f(x) and find which order provides an accurate value.
 2. pointerManipulationP7.c - Code to practice different kind of usage of pointers
+
+## Practical8
+
+1. recurssionPrac8.c - Contains code to find out gcd for two numbers using iterative function as well as recussive function.
