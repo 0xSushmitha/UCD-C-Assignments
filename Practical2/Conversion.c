@@ -34,7 +34,7 @@ int main() {
     mid = length / 2;
     for (i = 0; i < mid; i++) {
         j = length - i - 1;
-        aux = binnum[i];
+        aux = binnum[i]; //Using a temp variable to swap
         binnum[i] = binnum[j];
         binnum[j] = aux;
     }

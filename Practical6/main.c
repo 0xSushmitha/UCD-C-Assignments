@@ -25,7 +25,7 @@ int main() {
     printf("Matrix A:\n");
     for (int i = 0; i < 5; i++) {
         for (int j = 0; j < 3; j++) {
-            printf("%.2f ", A[i][j]);
+            printf("%.2f ", A[i][j]); //Print with two decimal places
         }
         printf("\n");
     }
@@ -33,7 +33,7 @@ int main() {
     printf("\nMatrix B:\n");
     for (int i = 0; i < 3; i++) {
         for (int j = 0; j < 4; j++) {
-            printf("%.2f ", B[i][j]);
+            printf("%.2f ", B[i][j]);//Print with two decimal places
         }
         printf("\n");
     }
@@ -41,7 +41,7 @@ int main() {
     printf("\nMatrix C (Result):\n");
     for (int i = 0; i < 5; i++) {
         for (int j = 0; j < 4; j++) {
-            printf("%.2f ", C[i][j]);
+            printf("%.2f ", C[i][j]);//Print with two decimal places
         }
         printf("\n");
     }

@@ -14,10 +14,10 @@ double estimate(int k,int x){
     double sum;
     sum=1;
     double *e;
-     e=(double *) malloc((k) * sizeof(double));
+     e=(double *) malloc((k) * sizeof(double)); //Dynamically allocating space for pointers
     sum=1;//Initializing the first value of the series 
     for(int i=0;i<k;i++){
-     e[i]=pow(x,i+1)/factorial(i+1);
+     e[i]=pow(x,i+1)/factorial(i+1); // Calculate using the formula.
      sum+=e[i];
     }
     free(e);

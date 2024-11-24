@@ -12,7 +12,7 @@ double artanh1(double x,double delta){
     while(term>delta){
         result += term;
         n++;
-        term = (pow(x, 2 * n + 1)) / (2 * n + 1);
+        term = (pow(x, 2 * n + 1)) / (2 * n + 1); //Calculate term until the term is greater than delta
     }
     return result;
 }
@@ -22,15 +22,15 @@ double artanh2(double x,double delta){
         printf("The value of x should lie between [-0.9,0.9]");
         exit(1);
     }
-    return 0.5 * (log(1 + x) - log(1 - x));
+    return 0.5 * (log(1 + x) - log(1 - x));  //Compute using the formula
 }
 int main(){
     double delta;
     printf("Enter a positive value (delta): ");
-    scanf("%lf", &delta);
+    scanf("%lf", &delta); //Input delta
     for (double x = -0.9; x <= 0.9; x += 0.01) {
-        double approx1 = artanh1(x, delta);
-        double approx2 = artanh2(x);
+        double approx1 = artanh1(x, delta); //Approximation using method 1
+        double approx2 = artanh2(x); //Approximation using method 2
     
     printf("x: %.2f \nartanh1: %.10f\n artanh2: %.10f\n Difference: %.10f\n", 
                x, approx1, approx2, fabs(approx1 - approx2));
