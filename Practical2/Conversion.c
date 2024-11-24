@@ -34,16 +34,16 @@ int main() {
     mid = length / 2;
     for (i = 0; i < mid; i++) {
         j = length - i - 1;
-        aux = binnum[i];
+        aux = binnum[i]; //Using a temp variable to swap
         binnum[i] = binnum[j];
         binnum[j] = aux;
     }
 
     /* TODO: Complete the expression */
-    /*   numdigits = ceil(...);
+      numdigits = ceil(length);/* finding the length of the binary string*/
        printf("The number of digits is %d\n",numdigits);
-    */
-    printf("inum=%d,  fnum=%f, inum in binary=%s\n", inum, fnum, binnum);
+    
+    printf("inum=%d,  fnum=%f, inum in binary=%s\n", inum, fnum, binnum); /* printing int, float and string using printf*/
 
     return 0;
 }
