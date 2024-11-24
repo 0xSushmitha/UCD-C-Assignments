@@ -3,7 +3,7 @@
 
 int *allocatearray(int n){
     int *allocation;
-    allocation= (int *) malloc(n * sizeof (int) );
+    allocation= (int *) malloc(n * sizeof (int) ); //Dynamically allocate memory
     return allocation;
 }
 void fillwithones(int *b,int size){
@@ -19,7 +19,7 @@ void printarray(int *c, int k){
     }
 }
 void freeMemory(int *d){
-    free(d);
+    free(d); //Free the memory after usage
 }
 
 int main(){

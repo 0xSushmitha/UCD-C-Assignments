@@ -10,7 +10,7 @@ int main(){
 int n;
 printf("Enter the value of n: ");
 scanf("%d", &n);
-if (n < 0) {
+if (n < 0) { //Check if the number is negative
         printf("You have entered a non negative number.\n");
         exit(1);
     }
@@ -18,14 +18,14 @@ printf("The Fibonacci series is:\n");
 int Fn_2 = 0, Fn_1 = 1;
 
 if (n >= 1) {
-    printf("%d ", Fn_2);
+    printf("%d ", Fn_2); //Print first term
 }  
     // Print the second term in the sequence
  if (n >= 2) {
     printf("%d ", Fn_1);
 }
 for (int i = 3; i <= n; i++) {
-    fibonacci_next(&Fn_1, &Fn_2);
+    fibonacci_next(&Fn_1, &Fn_2); //Compute the next terms after n=2 and print it until n is reached.
     printf("%d ", Fn_1); // Print the current term
 }
 
