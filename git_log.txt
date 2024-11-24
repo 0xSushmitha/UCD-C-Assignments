@@ -1,0 +1,192 @@
+commit a9d8cab9d9c60870696b85ffbe304946cbf16687
+Author: Sushmitha Bakthavatchalam <sushmitha.bakthavatchalam@ucdconnect.ie>
+Date:   Sun Nov 24 00:18:21 2024 +0000
+
+    Adding additional readme changes and comments for readbility
+
+commit 1d7736703cb87041f265469a11b3ca9053c1a29f
+Author: Sushmitha Bakthavatchalam <sushmitha.bakthavatchalam@ucdconnect.ie>
+Date:   Tue Nov 19 19:28:08 2024 +0000
+
+    Commiting a few changes in the read me file
+
+commit ecbfbf35a3a6cd3bb1e34b2658b2cf0bd4b5d52e
+Merge: cc113dc 27e89d9
+Author: Sushmitha Bakthavatchalam <sushmitha.bakthavatchalam@ucdconnect.ie>
+Date:   Tue Nov 19 19:24:00 2024 +0000
+
+    Merge pull request #10 from 0xSushmitha/Practical9
+    
+    Updating the contents and readme for practicals 9
+
+commit 27e89d9f40907dcd2a4da2671ebfa1fcb576e3a1
+Author: Sushmitha Bakthavatchalam <sushmitha.bakthavatchalam@ucdconnect.ie>
+Date:   Tue Nov 19 19:22:12 2024 +0000
+
+    Updating the contents and readme for practicals 9
+
+commit cc113dc55c95ab919782d8d4bf8911cc3224bf56
+Merge: a4c40b7 c7d7604
+Author: Sushmitha Bakthavatchalam <sushmitha.bakthavatchalam@ucdconnect.ie>
+Date:   Sun Nov 10 18:57:36 2024 +0000
+
+    Merge pull request #9 from 0xSushmitha/practical8
+    
+    Practical8
+
+commit c7d76048d857454eddc00573a6ab2c20f519a035
+Author: Sushmitha Bakthavatchalam <sushmitha.bakthavatchalam@ucdconnect.ie>
+Date:   Sun Nov 10 18:57:01 2024 +0000
+
+    Adding some comments for the program
+
+commit 64aff7a26dc8c44a05a87aeda32309944058e8bc
+Author: Sushmitha Bakthavatchalam <sushmitha.bakthavatchalam@ucdconnect.ie>
+Date:   Sun Nov 10 18:42:34 2024 +0000
+
+    Updating contents of practical 8
+
+commit a4c40b7e576eabe5fef071a33fb98b437288225b
+Merge: 513d920 1b1aff9
+Author: Sushmitha Bakthavatchalam <sushmitha.bakthavatchalam@ucdconnect.ie>
+Date:   Sun Nov 10 18:39:50 2024 +0000
+
+    Merge pull request #8 from 0xSushmitha/practical7
+    
+    Updating contents of pratical7
+
+commit 1b1aff9843dc789460a00d9e2c203ce87ba3e978
+Author: Sushmitha Bakthavatchalam <sushmitha.bakthavatchalam@ucdconnect.ie>
+Date:   Mon Nov 4 23:59:25 2024 +0000
+
+    Updating contents of pratical7
+
+commit 513d9202391eb1c783b32722e682f2737eb5f637
+Merge: 4de6d65 2f9b9f3
+Author: Sushmitha Bakthavatchalam <sushmitha.bakthavatchalam@ucdconnect.ie>
+Date:   Sun Nov 3 22:42:13 2024 +0000
+
+    Merge pull request #7 from 0xSushmitha/readme5n6
+    
+    Updating the readme for practical 5 and 6
+
+commit 2f9b9f3bdd59de7fae77ddaacc4f4ff69b7c4942
+Author: Sushmitha Bakthavatchalam <sushmitha.bakthavatchalam@ucdconnect.ie>
+Date:   Sun Nov 3 22:41:48 2024 +0000
+
+    Updating the readme for practical 5 and 6
+
+commit 4de6d655977956ed5a343c954ffd9f68681bf21d
+Merge: fe2d6da aad2bb4
+Author: Sushmitha Bakthavatchalam <sushmitha.bakthavatchalam@ucdconnect.ie>
+Date:   Sun Nov 3 22:39:59 2024 +0000
+
+    Merge pull request #6 from 0xSushmitha/practical6
+    
+    Updating the contents of practical 6
+
+commit aad2bb4c43ad4ca1eaa3b9e00719a07549fe9f0a
+Author: Sushmitha Bakthavatchalam <sushmitha.bakthavatchalam@ucdconnect.ie>
+Date:   Sun Nov 3 22:39:25 2024 +0000
+
+    Updating the contents of practical 6
+
+commit fe2d6daea6a43aaf93d4e77d927191e310aa7d75
+Merge: b30a9b6 cbcaf43
+Author: Sushmitha Bakthavatchalam <sushmitha.bakthavatchalam@ucdconnect.ie>
+Date:   Sun Nov 3 22:38:04 2024 +0000
+
+    Merge pull request #5 from 0xSushmitha/practical5
+    
+    Updating the contents of practical5
+
+commit cbcaf43584ff76fbc5eddefa21fd65b459829508
+Author: Sushmitha Bakthavatchalam <sushmitha.bakthavatchalam@ucdconnect.ie>
+Date:   Sun Nov 3 22:33:00 2024 +0000
+
+    Updating the contents of practical5
+
+commit b30a9b612f74d03e6bfae6eb16845a6ac7c7473b
+Merge: 9ff0f75 7686af9
+Author: Sushmitha Bakthavatchalam <sushmitha.bakthavatchalam@ucdconnect.ie>
+Date:   Tue Oct 22 08:04:38 2024 +0100
+
+    Merge pull request #4 from 0xSushmitha/practical4
+    
+    Updating the contents of practical 4
+
+commit 7686af9d85ae1e8ddf25882177f7b46e5ed659b5
+Author: Sushmitha Bakthavatchalam <sushmitha.bakthavatchalam@ucdconnect.ie>
+Date:   Tue Oct 22 08:03:32 2024 +0100
+
+    Updating the contents of practical 4
+
+commit 9ff0f7581dd415b13d37eb3fb1ae0790ce3fbbcd
+Merge: 562ead2 7895a66
+Author: Sushmitha Bakthavatchalam <sushmitha.bakthavatchalam@ucdconnect.ie>
+Date:   Tue Oct 15 12:04:40 2024 +0100
+
+    Merge pull request #3 from 0xSushmitha/practical3
+    
+    Merging the contents of practical 3 to main
+
+commit 7895a66ee0f4fa2459cd1c34403d4bb64f19abdb
+Author: Sushmitha Bakthavatchalam <sushmitha.bakthavatchalam@ucdconnect.ie>
+Date:   Tue Oct 15 12:03:37 2024 +0100
+
+    Updating the contents of practical 3
+
+commit 25617a05e9b957ada80e2947eb7e40aa9fb037c5
+Author: Sushmitha Bakthavatchalam <sushmitha.bakthavatchalam@ucdconnect.ie>
+Date:   Tue Oct 15 12:03:20 2024 +0100
+
+    Updating the contents of practical 3
+
+commit 562ead2dccde88bc74a1b09b0eeedfc208693e5a
+Merge: 423a80e 4ea58c1
+Author: Sushmitha Bakthavatchalam <sushmitha.bakthavatchalam@ucdconnect.ie>
+Date:   Tue Oct 15 09:11:54 2024 +0100
+
+    Merge pull request #2 from 0xSushmitha/practical2
+    
+    Updating the contents of practical 2
+
+commit 4ea58c1a7410ed87ff2dfcb02430b038b321cc97
+Author: Sushmitha Bakthavatchalam <sushmitha.bakthavatchalam@ucdconnect.ie>
+Date:   Tue Oct 15 09:10:12 2024 +0100
+
+    Updating the contents of practical 2
+
+commit 423a80ebd2a113ae636d31098eb130a0f6deb705
+Merge: 6432610 1df92c6
+Author: Sushmitha Bakthavatchalam <sushmitha.bakthavatchalam@ucdconnect.ie>
+Date:   Tue Oct 15 08:54:36 2024 +0100
+
+    Merge branch 'main' of https://github.com/0xSushmitha/sciprog_24
+
+commit 6432610a6063575e9bb85e571d8bbbd05eb9747d
+Author: Sushmitha Bakthavatchalam <sushmitha.bakthavatchalam@ucdconnect.ie>
+Date:   Tue Oct 15 08:54:16 2024 +0100
+
+    Updating readme for practical1
+
+commit 1df92c6f68f5cbd40c4db8e2161d83b87a7ece8c
+Merge: 416212b 042f6db
+Author: Sushmitha Bakthavatchalam <sushmitha.bakthavatchalam@ucdconnect.ie>
+Date:   Tue Oct 15 08:43:43 2024 +0100
+
+    Merge pull request #1 from 0xSushmitha/practical1
+    
+    Practical 1
+
+commit 042f6dbf73e348f46ef99c5afd9a284c94d1a201
+Author: Sushmitha Bakthavatchalam <sushmitha.bakthavatchalam@ucdconnect.ie>
+Date:   Tue Oct 15 08:38:40 2024 +0100
+
+    Practical 1 code base
+
+commit 416212ba6c0888d690e9c511296343c41555edab
+Author: Sushmitha Bakthavatchalam <sushmitha.bakthavatchalam@ucdconnect.ie>
+Date:   Mon Oct 7 20:40:34 2024 +0100
+
+    Initial commit
